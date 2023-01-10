@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bc-34-practicise/static/css/main.7acaea2f.css",
+    "main.js": "/bc-34-practicise/static/js/main.56c30626.js",
+    "index.html": "/bc-34-practicise/index.html",
+    "main.7acaea2f.css.map": "/bc-34-practicise/static/css/main.7acaea2f.css.map",
+    "main.56c30626.js.map": "/bc-34-practicise/static/js/main.56c30626.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.56c30626.js"
+  ]
+}
